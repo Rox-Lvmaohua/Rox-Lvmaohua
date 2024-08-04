@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 I'm a graduate student studying in the Department of Computer Science and Technology, Harbin Institute of Technology (Shenzhen).
+- 🤔 I'm a graduate student studying in the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen).
 <!--
 **Rox-Lvmaohua/Rox-Lvmaohua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
